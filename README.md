@@ -1,4 +1,21 @@
-# piscine-reloaded
-some exercises from "LA PISCINE"
+############################
+##### piscine-reloaded #####
+############################
 
-most of C language and some shell, you'll find the subject in .pdf with my 27 exercises, enjoy!
+Some exercises from "LA PISCINE"
+
+############################
+
+Those exercises are made with C Language and Shell script
+
+############################
+
+This is the first project when you start 42
+
+############################
+
+You'll find the subject in the "Subject" folder
+
+############################
+
+      E N J O Y !
