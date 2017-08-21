@@ -4,8 +4,7 @@
 
 <h2>Some exercises from "LA PISCINE"</h2>
 
-<hr>
-
+<br>
       Those exercises are made with C Language and Shell script
 
 <hr>
