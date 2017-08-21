@@ -1,21 +1,21 @@
-############################
-##### piscine-reloaded #####
-############################
+                                                ############################
+                                                ##### PISCNE-RELOADED! #####
+                                                ############################
 
-Some exercises from "LA PISCINE"
-
-############################
-
-Those exercises are made with C Language and Shell script
+      Some exercises from "LA PISCINE"
 
 ############################
 
-This is the first project when you start 42
+      Those exercises are made with C Language and Shell script
 
 ############################
 
-You'll find the subject in the "Subject" folder
+      This is the first project when you start 42
 
 ############################
 
-      E N J O Y !
+      You'll find the subject in the "Subject" folder
+
+############################
+
+                                                      E N J O Y !
